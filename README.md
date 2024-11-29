@@ -9,3 +9,5 @@ npm run dev
 ```
 
 Head to http://localhost:5173
+
+More Info: https://nikolaiii.notion.site/Building-Frames-for-Warpcast-1491b14f954a80b2b96dced16f03c418
