@@ -1,3 +1,10 @@
+
+This is a frame for Warpcast created for Base Seoul Meetup on 29 November 2024.
+
+It uses frog.js, Airstack API and lum0x API.
+
+How to start:
+
 ```
 cp .env.example .env
 ```
