@@ -1,7 +1,10 @@
 
 This is a frame for Warpcast created for Base Seoul Meetup on 29 November 2024.
 
-It uses frog.js, Airstack API and lum0x API.
+<img width="400" alt="Screenshot 2024-11-29 at 12 54 59" src="https://github.com/user-attachments/assets/926624de-7c4f-4b6b-9994-6177000baf27">
+
+
+It uses frog.js, Airstack API and lum0x SDK.
 
 How to start:
 
